@@ -1,0 +1,8 @@
+bot:
+  owner_ids:
+    - 1349753697705394228
+    - 1349754470841712641
+  prefix: $
+  default_bet: 100
+  bonus_multiplier: 5 
+  bonus_cooldown: 12 
