@@ -1,4 +1,4 @@
-# localhost
+# Game Bling
 
 A Discord bot for various games and utilities.
 
